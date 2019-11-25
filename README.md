@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A new Flutter project to show how to write component test with mock dependency.
 
 ## Getting Started
 
